@@ -1,4 +1,4 @@
-#Course Materials
+###Course Materials
 
 This directory contains the syllabi for all IT courses I have completed or am currently completing at Kellogg Community College. These documents provide an overview of the course content, objectives, and key topics covered.
 
