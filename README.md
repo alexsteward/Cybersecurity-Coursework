@@ -1,7 +1,8 @@
-# Course Materials
+# Course Materials 📚
 
 ## Overview
 
-This directory contains the syllabi for all IT courses I have completed or am currently completing at Kellogg Community College. These documents provide an overview of the course content, objectives, and key topics covered.
+This repository is dedicated to the syllabi and course materials for the IT classes I've completed or am currently completing as part of my education at Kellogg Community College. These documents outline some of the skills I've learned and key topics in my studies for cybersecurity at KCC.
 
-Feel free to explore the materials to gain insight into the coursework and skills I am acquiring as part of my cybersecurity studies.
+## Purpose 
+The goal of this repository is to provide insight into the technical knowledge I possess and am currently learning. It serves as a reflection of my academic progress at KCC and what I've learned so far in my studies.
